@@ -1,15 +1,4 @@
 # Arbol-Maximo-Minimo-Coste-Kruskal-IA
-**Autor:** Alejandro Aguirre Díaz.   
-**Descripción:** Este repositorio contiene un simulador del algoritmo Arbol de Maximo y Minimo coste Kruskal programado en Python.  
-**Última modificación:** Martes 25 de noviembre del 2025.  
-
-## ¿Qué es?
-Kruskal es un algoritmo voraz (greedy) para construir árboles generadores (spanning trees) en grafos conexos y ponderados. Existen dos variantes comunes:
-
-- Árbol de mínimo coste (Minimum Spanning Tree, MST): selecciona aristas de menor peso primero.
-- Árbol de máximo coste: selecciona aristas de mayor peso primero (equivalente a invertir el orden de selección).
-
-# Arbol-Maximo-Minimo-Coste-Kruskal-IA
 **Autor:** Alejandro Aguirre Díaz.  
 **Descripción:** Este repositorio contiene un simulador del algoritmo Árbol de Máximo y Mínimo coste (Kruskal) programado en Python.  
 **Última modificación:** Martes 25 de noviembre del 2025.  
@@ -49,7 +38,7 @@ En la industria y en la investigación se implementa de forma práctica y escala
 Implementaciones comunes: bibliotecas como `NetworkX` (Python), funciones en C++/Java optimizadas para grandes grafos, y motores geoespaciales integrados en herramientas de planificación.
 
 ## ¿Cómo lo implementarías en tu vida?
-Ideas prácticas y ejercicios personales para aplicar Kruskal:
+En ideas prácticas y ejercicios personales como:
 
 - Proyectos personales: construir un visualizador/simulador en Python que genere grafos aleatorios y muestre MST y árbol máximo (por ejemplo usando `matplotlib` o `pyvis`).
 - Optimizar conexiones domésticas: planificar la colocación y cableado de routers/extensores minimizando cable o coste.
@@ -59,7 +48,6 @@ Ideas prácticas y ejercicios personales para aplicar Kruskal:
 Pequeños pasos: implementar Kruskal desde cero, luego comparar con `networkx.minimum_spanning_tree` para verificar resultados.
 
 ## ¿Cómo lo implementarías en tu trabajo o tu trabajo de ensueño?
-En un contexto profesional o en un puesto ideal, Kruskal puede usarse así:
 
 - Integrarlo en herramientas de planificación y optimización para clientes, p. ej. módulos que propongan topologías iniciales de baja inversión para redes o logística.
 - Automatizar análisis de coste-beneficio: generar MSTs como punto de partida y luego evaluar variantes con redundancia y restricciones operativas.
