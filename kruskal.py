@@ -1,5 +1,6 @@
 """
 Programa: Simulador Arbol-Máximo-Mínimo-Coste-Kruskal-IA
+
 Descripción:
     Simulador y demostración del algoritmo de Kruskal para obtener
     árboles generadores mínimos o máximos en un grafo ponderado.
