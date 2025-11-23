@@ -1,6 +1,6 @@
 # Arbol-Maximo-Minimo-Coste-Kruskal-IA
 **Autor:** Alejandro Aguirre Díaz.   
-**Descripción:**Este repositorio contiene un simulador del algoritmo Arbol de Maximo y Minimo coste Kruskal programado en Python.
+**Descripción:** Este repositorio contiene un simulador del algoritmo Arbol de Maximo y Minimo coste Kruskal programado en Python.  
 **Última modificación:** Martes 25 de noviembre del 2025.  
 
 ## ¿Qué es?
